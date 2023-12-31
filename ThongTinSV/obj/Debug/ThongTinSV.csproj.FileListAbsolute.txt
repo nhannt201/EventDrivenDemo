@@ -1,0 +1,10 @@
+D:\C#\EventDriven\ThongTinSV\bin\Debug\ThongTinSV.exe
+D:\C#\EventDriven\ThongTinSV\bin\Debug\ThongTinSV.pdb
+D:\C#\EventDriven\ThongTinSV\obj\Debug\ThongTinSV.csprojAssemblyReference.cache
+D:\C#\EventDriven\ThongTinSV\obj\Debug\ThongTinSV.frmStudent.resources
+D:\C#\EventDriven\ThongTinSV\obj\Debug\ThongTinSV.Properties.Resources.resources
+D:\C#\EventDriven\ThongTinSV\obj\Debug\ThongTinSV.csproj.GenerateResource.cache
+D:\C#\EventDriven\ThongTinSV\obj\Debug\ThongTinSV.csproj.CoreCompileInputs.cache
+D:\C#\EventDriven\ThongTinSV\obj\Debug\ThongTinSV.exe
+D:\C#\EventDriven\ThongTinSV\obj\Debug\ThongTinSV.pdb
+D:\C#\EventDriven\ThongTinSV\obj\Debug\ThongTinSV.frmInfo.resources

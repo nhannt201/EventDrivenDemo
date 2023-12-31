@@ -1,0 +1,10 @@
+D:\C#\EventDriven\StudentApp\bin\Debug\StudentApp.exe
+D:\C#\EventDriven\StudentApp\bin\Debug\StudentApp.pdb
+D:\C#\EventDriven\StudentApp\obj\Debug\StudentApp.csprojAssemblyReference.cache
+D:\C#\EventDriven\StudentApp\obj\Debug\StudentApp.Form1.resources
+D:\C#\EventDriven\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+D:\C#\EventDriven\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.cache
+D:\C#\EventDriven\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+D:\C#\EventDriven\StudentApp\obj\Debug\StudentApp.exe
+D:\C#\EventDriven\StudentApp\obj\Debug\StudentApp.pdb
+D:\C#\EventDriven\StudentApp\obj\Debug\StudentApp.frmAdd.resources
